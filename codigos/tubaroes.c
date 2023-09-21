@@ -30,7 +30,7 @@ int main(){
                 case 11: printf("tubarao raposa\n"); break;
                 case 12: printf("tubarao mako\n"); break;
                 case 13: printf("tubarao bruxa\n"); break;
-                case 14: printf("tubarao azul\n"); break;
+                case 14: printf("tubarao azsdl\n"); break;
             }
         }
     }

@@ -1,1 +1,2 @@
 # aprendendoc
+alguns exercícios
